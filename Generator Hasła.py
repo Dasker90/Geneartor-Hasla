@@ -1,4 +1,4 @@
-#sposób łatwy //-/
+#sposób łatwy -
 import random
 print("-----------------------------")
 print("Damian Skuras")
@@ -37,4 +37,4 @@ input("Aby wyjsc z programu nacisnij klawisz |ENTER|")
 choice = 0
 if choice == 0:
     quit()
-#---
+#-----
